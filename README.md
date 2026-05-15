@@ -18,7 +18,7 @@ Busco mi primera experiencia en IT para aplicar lo que sé en un entorno profesi
 - 🔧 Trabajo con Node.js, Python, Laravel y Docker
 - 📦 Me gustan los proyectos que automatizan cosas aburridas
 - 📍 Buenos Aires, Argentina · Disponible para trabajo remoto o híbrido
-- 📬 [LinkedIn](https://linkedin.com/in/TU-USUARIO) · thiagoorlezz@gmail.com
+- 📬 [LinkedIn](https://www.linkedin.com/in/thiagoorel/) · thiagoorel2003@gmail.com
 
 ---
 
@@ -26,7 +26,7 @@ Busco mi primera experiencia en IT para aplicar lo que sé en un entorno profesi
 
 | Proyecto | Descripción | Stack |
 |----------|-------------|-------|
-| 🅿️ [SeekerParking](https://github.com/OrlezTh/seekerparking) | API REST para localizar estacionamientos libres por GPS | Laravel, Docker, MySQL |
-| 🌿 [Habit Tracker](https://github.com/OrlezTh/habit-tracker) | App mobile para registrar hábitos durante el día | HTML, CSS, JS vanilla |
+| 🅿️ [SeekerParking](https://github.com/OrlezTh/seekerparking) | API REST para localizar estacionamientos libres por GPS | Laravel, Docker, MySQL |  Uso de IA para desarrollo |
+| 🌿 [Habit Tracker](https://github.com/OrlezTh/habit-tracker) | App mobile para registrar hábitos durante el día | HTML, CSS, JS |
 | 🤖 [Job Bot AI](https://github.com/OrlezTh/unpaz-job-bot-ai) | Bot que automatiza búsqueda de empleo y notifica por Telegram | Make.com, OpenAI, Telegram |
-| 💸 [Gestión de Préstamos](https://github.com/OrlezTh/Pagina-prestamos) | App web para registrar préstamos, cuotas y cobros con calendario | HTML, CSS, JS vanilla |
+| 💸 [Gestión de Préstamos](https://github.com/OrlezTh/Pagina-prestamos) | App web para registrar préstamos, cuotas y cobros con calendario | HTML, CSS, JS |
